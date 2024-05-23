@@ -1,2 +1,5 @@
 # GrammarTree
-Grammar to Abstract Syntax Tree (in JSON format) generic parser for JavaScript / Python / PHP
+
+Generic Parser that parses any Grammar to Abstract Syntax Tree, for JavaScript / Python / PHP
+  
+**in progress**  
